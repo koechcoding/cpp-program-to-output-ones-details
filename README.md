@@ -1,0 +1,1 @@
+# cpp-program-to-output-ones-details
